@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/header.png">
+    <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/header.png">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://cugetreg.com">
-        <img src="assets/cgr-logo.png">
+        <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cgr-logo.png">
     </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="https://book.cusc.chula.ac.th">
-        <img src="assets/cusc-logo.png">
+        <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cusc-logo.png">
     </a>
 </p>
 
@@ -59,7 +59,7 @@
 <center><h1>CU Pop Bus</h1></center>
 
 <p align="center">
-    <img src="assets/cupb-logo.png">
+    <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cupb-logo.png">
 </p>
 
 <p align="center">
