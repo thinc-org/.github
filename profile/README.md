@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/header.png">
+    <a href="https://thinc.in.th">
+        <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/header.png">
+    </a>
 </p>
 
 <p align="center">
